@@ -1,6 +1,5 @@
-<p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
-</p>
+![DNS Screenshot](https://raw.githubusercontent.com/tcpiercy/DNS-part-1/main/DNS%20Screenshot.png)
+
 
 <h1>osTicket - Post-Install Configuration</h1>
 This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
